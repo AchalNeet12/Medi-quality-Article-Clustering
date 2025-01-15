@@ -3,7 +3,7 @@
 
 ### 📜 Description and Overview
 
-**Medi-quality-Article-Clustering** is a machine learning-based project aimed at clustering and analyzing medical articles to uncover patterns and generate meaningful insights. By leveraging natural language processing (NLP) techniques and unsupervised learning algorithms, the project organizes a large corpus of medical texts into distinct groups or clusters. This categorization facilitates easier analysis, exploration, and visualization of the articles, aiding researchers and professionals in gaining a deeper understanding of the content.
+- **Medi-quality-Article-Clustering** is a machine learning-based project aimed at clustering and analyzing medical articles to uncover patterns and generate meaningful insights. By leveraging natural language processing (NLP) techniques and unsupervised learning algorithms, the project organizes a large corpus of medical texts into distinct groups or clusters. This categorization facilitates easier analysis, exploration, and visualization of the articles, aiding researchers and professionals in gaining a deeper understanding of the content.
 ---
 ### 📦 Dataset
 
